@@ -15,5 +15,11 @@
 # git commit -m "second init"
 
 
+# git status
+# git log
+
+# git push origin main
+
+
 
 
