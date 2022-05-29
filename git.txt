@@ -1,7 +1,7 @@
 
 # git init
 
-# git remote add origin '저장소 주소'
+# git remote add origin '저장소 주소 https://github.com/Crimsontid/AirBnB'
 
 # git add .
 
